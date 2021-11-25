@@ -22,4 +22,8 @@ ls
 
 touch to create files from cmd
 touch <filename-with-extension>
- 
+
+wget to to download anyfile from the internet
+Example:- 
+wget https://www.facebook.com/favicon.ico
+wget <url>
