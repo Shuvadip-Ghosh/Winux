@@ -27,3 +27,13 @@ wget to to download anyfile from the internet
 Example:- 
 wget https://www.facebook.com/favicon.ico
 wget <url>
+
+github to stage ang commit files in one line
+github "<commit-message>" <name-of-the-remote-repository> <branch>
+Example:-
+github "Example" origin master
+
+custom to get a new look in the cmd 
+which can also activate a python virtualenv if the name is passed
+custom
+custom <name-of-environment>
