@@ -1,6 +1,6 @@
 @ECHO OFF
 set arg1=%1
-color 09
+:: color 09
 prompt [%username%@%computername%]-[$p]$$ 
 CALL %arg1%\Scripts\activate
 cls
